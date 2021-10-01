@@ -73,4 +73,9 @@ python main.py
   - Contains utility functions for exiting loops during unhandled exceptions.
 
 
+## Support & Community Forums
+This integration is an open source project, not a formal CrowdStrike product, to assist CrowdStrike & Zscaler mutual customers. As such it carries no formal support, expressed or implied.
 
+:fire: Is something going wrong? :fire:<br/>
+GitHub Issues are used to report bugs. Submit a ticket here:<br/>
+[https://github.com/CrowdStrike/zscaler-FalconX-integration/issues/new/choose](https://github.com/CrowdStrike/zscaler-FalconX-integration/issues/new/choose)
