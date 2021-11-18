@@ -16,9 +16,9 @@ cd zscaler-FalconX-integration
 ## Requirements
 
 Requires python requests library
-'''bash
+```bash
 pip install requests
-'''
+```
 
 ## Zscaler URL Category
 First, log into your ZIA tenant and then navigate to “Administration” -> “URL-Categories", and then add a new URL category with the name 'CrowdStrike Malicious URLs - High', in the URL Super Category select 'User-Defined'. The new category will not be accepted without any entries, so enter an arbitrary URL, and then save.
