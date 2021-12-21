@@ -10,7 +10,7 @@ cs_secret = "9zsLQI8NpD5CT2RO3Xbdm0GK61Aqv7njir4FBhMS"
 cs_base_url = "https://api.crowdstrike.com"
 
 # ZScaler configurations
-zs_hostname = 'https://admin.zscalertwo.net'
+zs_hostname = 'https://admin.zscloud.net'
 cs_category_name = 'CrowdStrike Malicious URLs - High'
 zs_username = 'crowdstrike@diversey.corp'
 zs_password = 'y2sr2v3D!'
