@@ -14,7 +14,7 @@ zs_hostname = 'https://admin.zscloud.net'
 cs_category_name = 'CrowdStrike Malicious URLs - High'
 zs_username = 'crowdstrike@diversey.corp'
 zs_password = 'y2sr2v3D!'
-zs_apiKey = ''
+zs_apiKey = 'oGI5r0iBhjK4'
 zs_max_calls_hourly = 39000  # Maximum URL Look Up requests per hour; Default = 39000
 zs_max_payload_size = 10000  # Maximum URLs to POST to Zscaler per request; Default = 10000
 
